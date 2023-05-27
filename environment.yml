@@ -1,0 +1,24 @@
+name: employee-management-system
+channels:
+  - defaults
+dependencies:
+  - bzip2=1.0.8
+  - ca-certificates=2023.01.10
+  - certifi=2023.5.7
+  - click=8.0.4
+  - colorama=0.4.6
+  - libffi=3.4.4
+  - openssl=1.1.1t
+  - pip=23.0.1
+  - python=3.11.3
+  - python-dotenv=0.21.0
+  - setuptools=66.0.0
+  - sqlite=3.41.2
+  - tk=8.6.12
+  - tzdata=2023c
+  - vc=14.2
+  - vs2015_runtime=14.27.29016
+  - wheel=0.38.4
+  - xz=5.4.2
+  - zlib=1.2.13
+prefix: C:\Users\Casoy\anaconda3\envs\employee-management-system
